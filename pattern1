@@ -5,7 +5,7 @@ def main():
 def pattern(lines):
      flag=lines
      for i in range(lines):
-         print(" "*(i),'$'*(2*flag-1))
+         print(" "*(i),'#'*(2*flag-1))
          flag-=1
 
 if __name__ == "__main__":
