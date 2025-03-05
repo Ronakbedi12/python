@@ -1,1 +1,1 @@
-# python loops statement
+# python looping statement
