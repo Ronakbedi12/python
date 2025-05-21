@@ -6,7 +6,7 @@ if n == 1:
 else:
     print(a)
     print(b)
-    for i in range(0,11):
+    for i in range(0,n):
         c=a+b
         a=b
         b=c
