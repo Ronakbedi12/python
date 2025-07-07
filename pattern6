@@ -3,4 +3,4 @@
 #          print(" ",end=" ")
 #      for k in range(i):
 #          print("*",end=" ")
-#      print()
+#      print("The star pattern is: )
